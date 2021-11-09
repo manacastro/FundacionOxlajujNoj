@@ -1,0 +1,26 @@
+.contentPartners{
+    display: flex;
+    flex-wrap: wrap;
+}
+.contentImage{
+    margin-top: 0px;
+    position: relative;
+    /* display: flex;
+    flex-wrap: wrap; */
+    text-align: center;
+    /* background-color: var(--color-alternative); */
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+.textImage{
+    margin-top: 10px;
+    color:var( --color-primary);
+    font-size: var(--font-size-xxlarge);
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+.img{
+    height: 100%;;
+    padding: 20px;
+}
